@@ -5,9 +5,8 @@ Demuestra habilidades de **maquetación profesional, HTML semántico, CSS modern
 
 ---
 
-## Demo
-- Abre el proyecto en tu navegador directamente desde GitHub Pages:  
-https://magdalenaayude.github.io/google-clone/
+## Demo 
+- https://magdalenaayude.github.io/google-clone/
 
 --
 
