@@ -1,12 +1,9 @@
-# Google Clone - Interfaz Web 
+# Google Clone - Interfaz Web 💻
 
 Este proyecto es una **clonación de la interfaz de Google**, desarrollado como ejercicio del **curso de Diseño Web**  
 Demuestra habilidades de **maquetación profesional, HTML semántico, CSS moderno (Flexbox/Grid)**.
 
----
-
-## Demo 
-- https://magdalenaayude.github.io/google-clone/
+🔗 https://magdalenaayude.github.io/google-clone/
 
 --
 
