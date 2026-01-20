@@ -1,8 +1,7 @@
 # Google Clone - Interfaz Web 
 
-## Descripción
 Este proyecto es una **clonación de la interfaz de Google**, desarrollado como ejercicio del **curso de Diseño Web**  
-Demuestra habilidades de **maquetación profesional, HTML semántico, CSS moderno (Flexbox/Grid).
+Demuestra habilidades de **maquetación profesional, HTML semántico, CSS moderno (Flexbox/Grid)**.
 
 ---
 
